@@ -1,3 +1,4 @@
+package Array;
 public class TwoSum {
       public int[] twoSum(int[] arr, int target) {
         int ans[] = new int[2];

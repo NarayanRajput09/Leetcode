@@ -1,3 +1,4 @@
+package Array;
 public class Palindrome {
 
  public boolean isPalindrome(int x) {

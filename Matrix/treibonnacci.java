@@ -1,3 +1,4 @@
+package Matrix;
 public class treibonnacci {
    
     public int tribonacci(int n) {
