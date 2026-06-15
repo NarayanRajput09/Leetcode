@@ -1,3 +1,4 @@
+package Array;
 public class waterBottels {
     public int numWaterBottles(int numBottles, int numExchange) {
         int ans = numBottles ;

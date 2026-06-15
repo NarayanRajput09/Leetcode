@@ -1,3 +1,4 @@
+package Array;
 public class Problem27 {
        public int removeElement(int[] nums, int val) {
        int ptr = 0;
